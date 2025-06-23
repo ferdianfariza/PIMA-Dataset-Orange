@@ -40,13 +40,13 @@ This project aims to predict whether a patient has diabetes using various machin
 
 ## Machine Learning Models
 
-| Model              | AUC   | Accuracy (CA) | F1    | Precision | Recall | MCC   |
-|-------------------|-------|---------------|-------|-----------|--------|--------|
-| Random Forest      | 0.888 | 0.814         | 0.814 | 0.815     | 0.814  | 0.629 |
-| Gradient Boosting  | 0.882 | 0.806         | 0.806 | 0.807     | 0.806  | 0.613 |
-| Neural Network     | 0.842 | 0.765         | 0.765 | 0.766     | 0.765  | 0.531 |
-| Logistic Regression| 0.845 | 0.756         | 0.756 | 0.756     | 0.756  | 0.512 |
-| SVM                | 0.757 | 0.692         | 0.691 | 0.694     | 0.692  | 0.386 |
+| Model               | AUC   | Accuracy (CA) | F1    | Precision | Recall | MCC   |
+| ------------------- | ----- | ------------- | ----- | --------- | ------ | ----- |
+| Random Forest       | 0.889 | 0.811         | 0.811 | 0.811     | 0.811  | 0.627 |
+| Gradient Boosting   | 0.879 | 0.808         | 0.808 | 0.809     | 0.808  | 0.619 |
+| Neural Network      | 0.876 | 0.804         | 0.804 | 0.805     | 0.804  | 0.612 |
+| Logistic Regression | 0.845 | 0.755         | 0.755 | 0.755     | 0.755  | 0.510 |
+| SVM                 | 0.745 | 0.682         | 0.681 | 0.684     | 0.682  | 0.378 |
 
 > *Random Forest achieved the highest overall performance.*
 
